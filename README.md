@@ -3,7 +3,7 @@
 
 ## Overview
 
-GrievX is a Tamil-first AI-powered public grievance resolution platform designed to help citizens report and track public issues quickly and efficiently.
+GrievX is a first AI-powered public grievance resolution platform designed to help citizens report and track public issues quickly and efficiently.
 
 The platform allows citizens to submit complaints using:
 - Text
